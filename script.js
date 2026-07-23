@@ -96,7 +96,7 @@ const DEFAULT_MSCI_DETAILS = {
   openingDate: "02/02/26",
   insurer: "Linxea - Suravenir",
   support: "Amundi MSCI World Swap II UCITS ETF Dist FR0010315770",
-  about: "Un support diversifié investi dans de grandes entreprises des pays développés.",
+  about: "Investissement diversifié dans les principales entreprises mondiales. Adapté à une stratégie de long terme avec un potentiel de croissance du capital.",
   arbitrages: "À renseigner"
 };
 
@@ -119,7 +119,7 @@ let msciDetails = loadMsciDetails();
 const REVOLUT_DETAILS_KEY = "avenir-revolut-details-v1";
 const DEFAULT_REVOLUT_DETAILS = {
   accountType: "Compte courant",
-  about: "Une réserve disponible pour absorber une grosse dépense, puis reconstituée progressivement."
+  about: "Compte utilisé comme réserve de trésorerie pour les dépenses importantes et les besoins ponctuels, puis reconstituée progressivement."
 };
 
 function loadRevolutDetails() {
@@ -146,7 +146,7 @@ const DEFAULT_LIVRET_A_DETAILS = {
   interestRate: "1,7%",
   interests: "549,19€",
   ceiling: "22 950 €",
-  about: "Une épargne sécurisée, disponible à tout moment et exonérée d’impôt."
+  about: "Epargne sécurisée, disponible à tout moment et exonérée d’impôt sur les intérêts."
 };
 
 function loadLivretADetails() {
@@ -173,7 +173,7 @@ const DEFAULT_LDD_DETAILS = {
   interestRate: "1,7%",
   interests: "269,64€",
   ceiling: "12 000 €",
-  about: "Une épargne sécurisée et disponible, complémentaire au Livret A."
+  about: "Livret d'épargne offrant une disponibilité immédiate des fonds et une exonération fiscale sur les intérêts."
 };
 
 function loadLddDetails() {
@@ -200,7 +200,7 @@ const DEFAULT_FONDS_EURO_DETAILS = {
   openingDate: "02/02/26",
   insurer: "Linxea - Suravenir",
   support: "Fonds euros Suravenir Opportunité 2",
-  about: "Un support sécurisé de l’assurance vie, destiné à préserver le capital tout en générant des intérêts. Mensualités 200/mois."
+  about: "Support sécurisé de l’assurance vie, destiné à préserver le capital tout en générant des intérêts. Mensualités 200/mois."
 };
 
 function loadFondsEuroDetails() {
@@ -228,7 +228,7 @@ const DEFAULT_PER_DETAILS = {
   openingDate: "02/02/26",
   insurer: "Linxea - Suravenir",
   accountType: "PER individuel (Périn)",
-  about: "Une épargne à long terme dédiée à la retraite, actuellement orientée vers la sécurité du fonds euro."
+  about: "Épargne à long terme, dédiée à la préparation de la retraite, avec un capital généralement disponible à l'échéance ou dans certains cas exceptionnels."
 };
 
 function loadPerDetails() {
