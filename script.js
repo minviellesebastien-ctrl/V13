@@ -96,7 +96,7 @@ const DEFAULT_MSCI_DETAILS = {
   openingDate: "02/02/26",
   insurer: "Linxea - Suravenir",
   support: "Amundi MSCI World Swap II UCITS ETF Dist FR0010315770",
-  about: "Investissement diversifié dans les principales entreprises mondiales. Adapté à une stratégie de long terme avec un potentiel de croissance du capital.",
+  about: "Investissement diversifié dans les principales entreprises mondiales, avec un potentiel de croissance du capital.",
   arbitrages: "À renseigner"
 };
 
