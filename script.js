@@ -119,7 +119,7 @@ let msciDetails = loadMsciDetails();
 const REVOLUT_DETAILS_KEY = "avenir-revolut-details-v1";
 const DEFAULT_REVOLUT_DETAILS = {
   accountType: "Compte courant",
-  about: "Compte utilisé comme réserve de trésorerie pour les dépenses importantes et les besoins ponctuels, puis reconstituée progressivement."
+  about: "Compte utilisé comme réserve pour les dépenses importantes, puis reconstituée progressivement."
 };
 
 function loadRevolutDetails() {
