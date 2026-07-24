@@ -2424,7 +2424,7 @@ html.privacy-boot.privacy-boot-finish .account-value {
 
 @keyframes avenirLogoReveal {
   0% { transform: scale(.94); }
-  55% { transform: scale(1.035); }
+  55% { transform: scale(1.06); }
   100% { transform: scale(1); }
 }
 
